@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/css/main.8d09fb78.css",
-    "main.js": "/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/main.e0e42aae.js",
-    "index.html": "/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/index.html",
-    "main.8d09fb78.css.map": "/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/css/main.8d09fb78.css.map",
-    "main.e0e42aae.js.map": "/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/main.e0e42aae.js.map"
+    "main.css": "/training_steps/static/css/main.8d09fb78.css",
+    "main.js": "/training_steps/static/js/main.e0e42aae.js",
+    "index.html": "/training_steps/index.html",
+    "main.8d09fb78.css.map": "/training_steps/static/css/main.8d09fb78.css.map",
+    "main.e0e42aae.js.map": "/training_steps/static/js/main.e0e42aae.js.map"
   },
   "entrypoints": [
     "static/css/main.8d09fb78.css",
